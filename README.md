@@ -19,4 +19,4 @@ Lista de recursos usados em aula para este projeto
 | Cloud Functions | https://firebase.google.com/docs/functions/?hl=pt-br |
 | Cloud Storage | https://firebase.google.com/docs/storage/?authuser=0 |
 | PDF.js | https://mozilla.github.io/pdf.js/ |
-| MediaDevices.getUserMedia() | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
+| MediaDevices.getUserMedia() | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |# whatsAppClone
