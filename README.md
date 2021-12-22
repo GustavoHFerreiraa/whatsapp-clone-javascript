@@ -16,3 +16,13 @@
 | PDF.js | https://mozilla.github.io/pdf.js/ |
 | MediaDevices.getUserMedia() | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |# whatsAppClone
 # Whatsapp-Clone
+
+A clone of WhatsApp Web using pure JavaScript + Firebase and Auth - HCode course. The project includes:
+
+Auth with Google accounts
+Notifications
+Real-time (Firebase)
+Audio
+Documents
+Access computers camera
+Messages status
